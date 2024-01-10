@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Shashidhar Ravishankar"
 title_separator          : "-"
-name                     : &name "Shashidhar Ravishankar"
+name                     : &name ""
 description              : &description "Computational Immunologist, Garderner, Tinkerer"
-url                      : https://shashidhar2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shashidhar22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shashidhar22/shashidhar22.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "main" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
