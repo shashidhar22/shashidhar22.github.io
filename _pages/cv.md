@@ -11,21 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Biotechnology, PES Institute of Technology, Bengaluru, India. 2013
+* Master of Science, Bioinformatics, Georgia Institute of Technology, USA. 2015
+* PhD, Bioinformatics, Georgia Institute of Technology, USA. 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Staff Scientist, Warren Lab, Clinical Research Division, Fred Hutchinson Cancer
+Center.
+  * Understanding the dynamics of T-cell repertoire with the ART in treatment in individuals
+living with HIV.
+  * Understanding the tumor micro-environment in EBV, and KSHV-associated cancers using
+single-cell RNA-Seq.
+  * Exploring the mutational landscape in EBV in EBV-associated malignancies like NPC and
+ENKTL.
+ * Developing tools and pipelines for the analysis of AIRR-Seq and metagenomic datasets
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Bioinformatics Analyst, Warren Lab, Clinical Research Division, Fred Hutchinson
+Cancer Center.
+  * Understanding the dynamics of T-cell repertoire with the ART in treatment in individuals
+living with HIV.
+  * Understanding the tumor micro-environment in EBV, and KSHV-associated cancers using
+single-cell RNA-Seq.
+  * Developing tools and pipelines for the analysis of AIRR-Seq and metagenomic datasets.
+
+* SWEP Student, Malaria Branch, Centers for Disease Control and Prevention.
+  * Framework for the identification of drug resistance in Plasmodium falciparum from NGS data.
+  * Assembling the first complete genome of Plasmodium brasilianum
+
+* Bioinformatics Intern, New York Genome Center.
+  * Designed framework for Bisulfite-Seq analysis.
+  * Validation of variant calling tools for Bisulfite-Seq data.
+  * Developed a tool for the detection of allele-specific methylation from Bisulfite-Seq data.
+
+
   
 Skills
 ======
