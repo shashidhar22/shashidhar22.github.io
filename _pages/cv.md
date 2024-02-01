@@ -60,3 +60,6 @@ redirect_from:
   
 ## Service and leadership
 * Currently signed in to 43 different slack teams
+
+## Download CV
+[Download CV](/files/shashi_resume.pdf)
