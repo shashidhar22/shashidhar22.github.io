@@ -38,14 +38,14 @@ Work experience
 
 
 ### Bioinformatics Intern, New York Genome Center. (June 2015 - August 2015)
-  * Designed framework for Bisulfite-Seq analysis.
-  * Validation of variant calling tools for Bisulfite-Seq data.
-  * Developed a tool for the detection of allele-specific methylation from Bisulfite-Seq data.
+  * Developing a framework for Bisulfite-Seq analysis.
+  * Benchmarking tools for variant identification from Bisulfite-Seq data.
+  * Developing a tool for the detection of allele-specific methylation from Bisulfite-Seq data.
 
 
 ### Junior Bioinformatics Analyst, Interpretomics India Pvt Ltd. (July 2013 - May 2014)
-  * Designed and implemented Python based pipeline for Whole Genome/Exome Sequencing, RNA-Seq, ChIP-Seq, microRNA-Seq and, HLA-Typing for NGS-based cloud platform called iOMICS.
-  * Developed and validated "XomAnnotate", a tool designed to detect and analyze the complete spectrum of variations in WGS/WES data. \end{itemize}
+  * Design and implementation of a Python based pipeline for Whole Genome/Exome Sequencing, RNA-Seq, ChIP-Seq, microRNA-Seq, and HLA-Typing for NGS-based cloud platform called iOMICS.
+  * Developing a tool for the detection of the complete spectrum of variations in WGS/WES data. ([PLOS One](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123569))
 
 
 Publications
