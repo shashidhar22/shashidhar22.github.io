@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shashidhar22
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - shashidhar22/LymphoSeq2
+  - shashidhar22/scrna_seq_pipelines
+  - shashidhar22/airr_seq_pipelines
+  - shashidhar22/NeST
+  
