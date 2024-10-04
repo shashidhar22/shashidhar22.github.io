@@ -9,7 +9,7 @@ profile:
   image: IMG_1438.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Fred Hutchinson Cancer Center</p>
+    <p>Fred Hutch Cancer Center</p>
     <p>Seattle, WA 98109</p>
 
 news: false # includes a list of news items
