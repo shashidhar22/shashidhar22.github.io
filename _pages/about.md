@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am the Director of AI/ML at Athos Therapeutics, a clinical-stage biotech company. I lead the AI/ML work of a small engineering team, and we are building an agentic AI platform that helps drug discovery scientists analyze multi-omic data. The platform includes an LLM-as-a-judge system that checks its outputs before they reach scientists. I work closely with the scientists who write the lab protocols, and I set the company's AI strategy.
+I am a computational biologist who builds machine learning systems for biology. In practice that means the whole path: data engineering at the billion-sequence scale, protein language models fine tuned on multi-GPU clusters, and the evaluation harnesses that decide whether a model's output can be trusted. My work spans immunology, virology, oncology, and infectious disease, and it usually ends in a tool that bench scientists use.
 
-I am a computational biologist who builds machine learning tools for biology. My work spans immunology, virology, oncology, and infectious disease. I care most about turning large, complex datasets into results that bench scientists can act on.
+I am Director of AI/ML at Athos Therapeutics, a clinical-stage biotech company, where I lead the AI/ML work of a small engineering team. We are building an agentic AI platform for multi-omic analysis, including an LLM-as-a-judge layer that checks the system's outputs before they reach scientists.
 
 Before Athos, I spent more than six years at the Fred Hutchinson Cancer Center. As a Staff Scientist in the Warren Lab, I led [QUEST](https://github.com/shashidhar22/quest), a project that uses protein language models to predict which targets T-cells recognize. I built the data and training pipeline for 2.6 billion T-cell and target sequences and trained the models on multi-GPU cloud servers. This work was funded by a Yosemite-American Cancer Society Award, where I was Co-PI. I also combined single-cell, bulk RNA-seq, and immune repertoire data to study the immune response to Kaposi sarcoma, and mapped genetic variation across about 1,500 Epstein-Barr virus genomes. Earlier at Fred Hutch, I built LymphoSeq2, an open-source R package for immune repertoire analysis.
 
