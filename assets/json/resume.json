@@ -32,13 +32,13 @@
       "position": "Director of AI/ML",
       "startDate": "2026-06-01",
       "endDate": "Present",
-      "summary": "I set the company's AI strategy and lead the AI/ML work of a small engineering team. We are building an agentic AI platform for multi-omic data analysis, together with the drug discovery scientists who use it.",
+      "summary": "I lead the AI/ML work of a small engineering team. We are building an agentic AI platform for multi-omic data analysis, with an LLM-as-a-judge system that checks its outputs before they reach scientists. I work closely with the drug discovery scientists who use it, and I set the company's AI strategy.",
       "highlights": [
-        "AI strategy",
         "Agentic AI systems",
         "LLM evaluation",
         "Multi-omic data",
-        "Drug discovery"
+        "Drug discovery",
+        "AI strategy"
       ]
     },
     {
@@ -47,12 +47,13 @@
       "url": "https://research.fredhutch.org/warren/en.html",
       "startDate": "2022-04-01",
       "endDate": "2026-05-31",
-      "summary": "I built protein language models to predict which targets T-cells recognize, and I studied the immune response to Kaposi sarcoma and other virus-linked cancers. Co-PI on a Yosemite-American Cancer Society Award.",
+      "summary": "I led QUEST, a project that uses protein language models to predict which targets T-cells recognize, and built its data and training pipeline for 2.6 billion sequences on multi-GPU cloud servers. I also studied the immune response to Kaposi sarcoma and other virus-linked cancers by combining single-cell, bulk RNA-seq, and immune repertoire data. Co-PI on a Yosemite-American Cancer Society Award.",
       "highlights": [
         "Protein language models",
+        "Biological sequence modeling",
         "T-cell antigen recognition",
-        "Kaposi sarcoma",
-        "Multi-omic data integration"
+        "Multi-omic data integration",
+        "Comparative viral genomics"
       ]
     },
     {
@@ -128,7 +129,8 @@
         "Agentic systems",
         "Protein language models",
         "Model evaluation",
-        "PyTorch"
+        "PyTorch",
+        "Multi-GPU training"
       ]
     },
     {
@@ -139,7 +141,21 @@
         "Single-cell RNA-Seq",
         "Bulk RNA-Seq",
         "Immune repertoire sequencing",
-        "Genomics"
+        "Genomics",
+        "Comparative genomics"
+      ]
+    },
+    {
+      "name": "Data and infrastructure",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "R",
+        "Nextflow",
+        "AWS",
+        "Docker",
+        "Linux"
       ]
     }
   ],
@@ -163,6 +179,12 @@
   "interests": [],
   "references": [],
   "projects": [
+    {
+      "name": "QUEST",
+      "summary": "Protein language models for predicting T-cell epitope specificity.",
+      "url": "https://github.com/shashidhar22/quest",
+      "highlights": []
+    },
     {
       "name": "LymphoSeq2",
       "summary": "Open-source R package for immune repertoire analysis.",

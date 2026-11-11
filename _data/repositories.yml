@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - shashidhar22/quest
   - shashidhar22/LymphoSeq2
   - shashidhar22/scrna_seq_pipelines
   - shashidhar22/airr_seq_pipelines
