@@ -33,13 +33,7 @@
       "startDate": "2026-06-01",
       "endDate": "Present",
       "summary": "I lead the engineering team building an agentic AI platform for multi-omic data analysis in drug discovery. I work on two fronts: optimizing the agent system itself, and building an evaluation suite that measures how agents perform across every phase of the discovery process, with LLM judges grading their output.",
-      "highlights": [
-        "Agentic AI systems",
-        "Agent benchmarking",
-        "LLM-as-a-judge evaluation",
-        "Multi-omic data",
-        "Drug discovery"
-      ]
+      "highlights": ["Agentic AI systems", "Agent benchmarking", "LLM-as-a-judge evaluation", "Multi-omic data", "Drug discovery"]
     },
     {
       "name": "Fred Hutchinson Cancer Center",
@@ -62,11 +56,7 @@
       "startDate": "2019-10-01",
       "endDate": "2022-04-01",
       "summary": "I built LymphoSeq2, an open-source R package for immune repertoire analysis, and automated pipelines for single-cell and immune repertoire data.",
-      "highlights": [
-        "LymphoSeq2",
-        "Nextflow pipelines",
-        "Immune repertoire analysis"
-      ]
+      "highlights": ["LymphoSeq2", "Nextflow pipelines", "Immune repertoire analysis"]
     },
     {
       "name": "Centers for Disease Control and Prevention, Malaria Branch",
@@ -74,11 +64,7 @@
       "startDate": "2018-01-01",
       "endDate": "2018-08-31",
       "summary": "I built NeST, a sequencing analysis toolkit for tracking malaria drug resistance. It was adopted as a standard protocol across six CDC laboratories.",
-      "highlights": [
-        "NeST",
-        "Drug resistance surveillance",
-        "Genome assembly"
-      ]
+      "highlights": ["NeST", "Drug resistance surveillance", "Genome assembly"]
     }
   ],
   "education": [
@@ -124,39 +110,19 @@
       "name": "AI and machine learning",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Large language models",
-        "Agentic systems",
-        "Protein language models",
-        "Model evaluation",
-        "PyTorch",
-        "Multi-GPU training"
-      ]
+      "keywords": ["Large language models", "Agentic systems", "Protein language models", "Model evaluation", "PyTorch", "Multi-GPU training"]
     },
     {
       "name": "Life sciences data",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Single-cell RNA-Seq",
-        "Bulk RNA-Seq",
-        "Immune repertoire sequencing",
-        "Genomics",
-        "Comparative genomics"
-      ]
+      "keywords": ["Single-cell RNA-Seq", "Bulk RNA-Seq", "Immune repertoire sequencing", "Genomics", "Comparative genomics"]
     },
     {
       "name": "Data and infrastructure",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "Nextflow",
-        "AWS",
-        "Docker",
-        "Linux"
-      ]
+      "keywords": ["Python", "R", "Nextflow", "AWS", "Docker", "Linux"]
     }
   ],
   "languages": [

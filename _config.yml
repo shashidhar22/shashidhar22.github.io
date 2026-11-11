@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Shashidhar
-middle_name: 
+middle_name:
 last_name: Ravishankar
 email: shashidhar.r.shankar@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -41,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false # the feed is off, so there is no icon to show
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -113,7 +113,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -256,7 +255,6 @@ keep_files:
 plugins:
   - jekyll-archives
   - jekyll-email-protect
-  - jekyll-feed
   - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-jupyter-notebook

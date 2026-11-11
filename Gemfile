@@ -4,7 +4,7 @@ group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
-    gem 'jekyll-feed'
+    # gem 'jekyll-feed' # the site has no RSS feed on purpose
     gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
     gem 'jekyll-jupyter-notebook'
