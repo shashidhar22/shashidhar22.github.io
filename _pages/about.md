@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My research sits at the intersection of machine learning and biology. I build the models and the infrastructure behind them: protein language models for T-cell antigen specificity, data pipelines that turn billions of immune receptor sequences into training-ready datasets, and evaluation frameworks that test whether a model generalizes beyond its training distribution. My current focus is agentic AI for drug discovery: systems of LLM agents that plan and carry out multi-omic analyses, with an LLM-as-a-judge layer that evaluates their output before a scientist sees it. My work spans immunology, virology, oncology, and infectious disease.
+My research sits at the intersection of machine learning and biology. I build the models and the infrastructure behind them: protein language models for T-cell antigen specificity, data pipelines that turn billions of immune receptor sequences into training-ready datasets, and evaluation frameworks that test whether a model generalizes beyond its training distribution. My current focus is agentic AI for drug discovery: LLM agents that plan and carry out multi-omic analyses, and a benchmark that measures agent performance across the phases of the discovery process. The evaluation stack I built for it uses an LLM-as-a-judge to score agent output. My work spans immunology, virology, oncology, and infectious disease.
 
 I am currently the Director of AI/ML at Athos Therapeutics, a clinical-stage biotech company, where I lead the engineering team building that platform.
 
