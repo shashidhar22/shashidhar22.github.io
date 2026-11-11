@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a computational biologist who builds machine learning systems for biology. In practice that means the whole path: data engineering at the billion-sequence scale, protein language models fine tuned on multi-GPU clusters, and the evaluation harnesses that decide whether a model's output can be trusted. My work spans immunology, virology, oncology, and infectious disease, and it usually ends in a tool that bench scientists use.
+I am a computational biologist, and I build the machine learning systems that biologists use. The work usually starts with a very large pile of sequencing data and ends with a model or a pipeline that answers a question someone has at the bench. In between, that has meant turning billions of sequences into trainable datasets, fine tuning protein language models on multi-GPU clusters, and writing the evaluation harnesses that show whether the output can be trusted. The biology has spanned immunology, virology, oncology, and infectious disease.
 
 I am Director of AI/ML at Athos Therapeutics, a clinical-stage biotech company, where I lead the AI/ML work of a small engineering team. We are building an agentic AI platform for multi-omic analysis, including an LLM-as-a-judge layer that checks the system's outputs before they reach scientists.
 
