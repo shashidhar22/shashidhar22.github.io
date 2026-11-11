@@ -32,7 +32,7 @@
       "position": "Director of AI/ML",
       "startDate": "2026-06-01",
       "endDate": "Present",
-      "summary": "I lead the engineering team building an agentic AI platform for multi-omic data analysis in drug discovery. I built the evaluation stack behind it, including LLM-as-a-judge scoring of agent output, and I am building a benchmark that measures agent performance across the phases of the drug discovery process.",
+      "summary": "I lead the engineering team building an agentic AI platform for multi-omic data analysis in drug discovery. I am building a benchmark that measures how agents perform across every phase of the discovery pipeline, and I built the evaluation stack behind it, in which LLM judges grade agent output.",
       "highlights": [
         "Agentic AI systems",
         "Agent benchmarking",
