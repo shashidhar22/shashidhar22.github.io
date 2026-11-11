@@ -1,6 +1,18 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+<!-- Search engine indexing -->
+{% assign robots_noindex = false %}
+{% if page.noindex %}
+  {% assign robots_noindex = true %}
+{% endif %}
+{% if page.layout contains 'archive-' %}
+  {% assign robots_noindex = true %}
+{% endif %}
+{% if robots_noindex %}
+  <meta name="robots" content="noindex, follow">
+{% endif %}
+
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link

@@ -4,6 +4,8 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 3
+noindex: true # the blog is reachable from the menu, not from search engines
+sitemap: false
 pagination:
   enabled: true
   collection: posts
